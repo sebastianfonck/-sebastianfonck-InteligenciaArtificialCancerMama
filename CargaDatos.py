@@ -1,7 +1,6 @@
 import numpy as np 
 import pandas as pd 
 
-##dasdasdasdasdasdassad
 
 def Carga_pasto_2003():
     """
